@@ -1,0 +1,9 @@
+$ git config user.name
+Franco Rodriguez
+
+
+$ git config user.email
+francorod.2298@gmail.com
+
+
+
